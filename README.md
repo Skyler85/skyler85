@@ -1,6 +1,6 @@
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyler85&layout=compact&langs_count=10&hide=html,css&theme=github_dark&card_width=500px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyler85&layout=compact&langs_count=10&hide=html,css&theme=github_dark&card_width=450px)
 ![skyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyler85&show_icons=true&theme=github_dark)
 
 <br />
