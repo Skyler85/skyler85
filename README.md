@@ -1,4 +1,10 @@
-<br /><br /><br />
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyler85&layout=compact&langs_count=10&hide=html,css&theme=github_dark&card_width=500px)
+![skyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyler85&show_icons=true&theme=github_dark)
+
+<br />
+<br />
 
 ### 🍀 I am
 ____
@@ -88,4 +94,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 
