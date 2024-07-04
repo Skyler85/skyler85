@@ -31,55 +31,27 @@ ____
 
 ---
 <br />
-<center>
-<img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="css3" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/><img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+    <div><center>
 
-<img alt="node.js" src ="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img alt="amazonaws" src ="https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/><img alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/><img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/><img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="css3" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+<img alt="zustand" src ="https://img.shields.io/badge/zustand-764ABC.svg?&style=for-the-badge&logo=zustand&logoColor=white"/>
 
-<img alt="redux" src ="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+<br/> <br/>
+
+<img alt="node.js" src ="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="amazonaws" src ="https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+
 <img alt="visualstudiocode" src ="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img alt="intellijidea" src ="https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
-</center>
-
-<br /><br /><br /><br />
+</center></div>
 
 
-
-### ☘️ portfolio ( ing.. )
-____
-
-- 카카오톡 채팅 (html, css, js) ▶︎ ▷ <a href="#" alt="포트폴리오 바로가기">뷰어</a>
-    > 로그인구현, 회원가입폼, 채팅창 등 
-- 미니 프로필 사이트 (html, css)  ▶︎ ▷ <a href="#" alt="포트폴리오 바로가기">뷰어</a>
-    > 고급 css 스킬
-- 기술블로그(html, css, js, react 등)  ▶︎ ▷ <a href="#" alt="포트폴리오 바로가기">뷰어</a>
-    > 구상중...
-- 그 외 ..
-<br /><br /><br /><br />
-
-### ☘️ Currently Project
-____
-<br />
-
-
-| 프로젝트명 | 기간 | 목표 | 이슈 |
-|---------|-------|-------|-------|
-| 랜딩페이지 제작 | 2024.06.07 ~ 2024.2024.06.14 | . | . |
-| 멀티프랫폼 개발 | 2024.07.09 ~  2024.08.02| . | . |
-| DAU 1천명 웹서비스 개발 | 2024. 08.03 ~ 2024.| . | . |
-
-
-<br /><br /><br />
-
-
-### ☘️ learning
-
-| 교육명 | 기간 | 기관 | 이슈 |
-|-------|-------|-------|-------|
-| 초격차 프론트엔드 캠프 | (6개월) 2024.03.12 ~ 2024.2024.09.12 | NextLearners | . |
-| 클라우드 운영과 아키텍쳐 | (1주) 2024.06.17 ~ 2024.06.21 | AWS Korea | . |
-| DeepDive JS | 2024.04.17 ~ | 스터디 | . |
-
+<br /><br />
 <!--
 **Skyler85/skyler85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -94,7 +66,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
